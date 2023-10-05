@@ -13,8 +13,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 Após a instalação, execute a configuração da seguinte forma: <b>$sudo aws configure</b>
 
-Será realizada algumas perguntas durante a instalação:
-AWS Access Key ID
-AWS Secret Access Key
-Default region name
+Será realizada algumas perguntas durante a instalação:<br>
+AWS Access Key ID<br>
+AWS Secret Access Key<br>
+Default region name<br>
 Default output format: No meu caso, optei por utilizar o formato JSON
